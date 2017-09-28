@@ -24,6 +24,7 @@ aisles, departments, order_products_prior, order_products_train, orders, product
 * EDA & Preprocess<br>
 * Model train<br>
 * Model validation<br>
+* Submission
 
 <br><br>
 
